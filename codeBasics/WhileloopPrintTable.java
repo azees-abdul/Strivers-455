@@ -12,3 +12,18 @@ public class Main {
        }
     }
 }
+
+
+//Python 
+
+def main():
+    n = int(input())
+    i = 10
+    while i!=0:
+        print(n*i ,  end= " ")
+        i-=1
+
+if __name__ == "__main__"
+    main()
+    
+    
